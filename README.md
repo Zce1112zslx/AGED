@@ -5,7 +5,7 @@ Code and Technical Appendix for " Query Your Model with Definitions in FrameNet:
 ## 🤖Technical Details
 We show the hyper-parameter settings of 👴🏻AGED in the following table.
 | Hyper-parameter | Value|
-| --------------  | :----: |
+| :--------------  | :----: |
 | BERT version    | bert-base-uncased|
 | batch size      | 16/<b>32</b>
 | learning rate (train only) | 1e-5/<b>5e-5</b>
