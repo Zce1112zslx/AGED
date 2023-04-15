@@ -1,6 +1,8 @@
 # 🎅AGED
 Code and Technical Appendix for " Query Your Model with Definitions in FrameNet: An Effective Method for Frame Semantic Role Labeling" at AAAI-2023
 
+## Data Download
+Preprocessed FrameNet 1.5 and 1.7 data [link] (https://drive.google.com/drive/folders/1gk0Y1CW0V8JAuS3e0ihGFslJn0VATyYj)
 
 ## 🤖Technical Details
 
